@@ -3,7 +3,7 @@ require 'sinatra'
 
 before do
 	content_type 'text/plain'
-	status 418
+	status nil
 end
 
 get '/' do
