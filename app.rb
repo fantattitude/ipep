@@ -7,5 +7,5 @@ before do
 end
 
 get '/' do
-	"#{request.ip}"
+	"#{request.ip}\n"
 end
