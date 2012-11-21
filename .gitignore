@@ -1,2 +1,3 @@
 .bundle
+config/deploy.rb
 /vendor/bundle
